@@ -8,6 +8,6 @@ Functionality
 -------------
 <p>• Users can ask for a hint, if they get stuck. The hint is the correct value for one of the empty cells. </p>
 <p>• Users can entirely give up and ask for a solution to the whole puzzle </p>
-<p>• Users can simply load a new puzzle or generate a new one, even before completing the current puzzle. Ask for user confirmation, if they really want to quit the current puzzle.</p>
+<p>• Users can simply load a new puzzle or generate a new one, even before completing the current puzzle. Asks for user confirmation, if they really want to quit the current puzzle.</p>
 <p>• Users can clear all the input and start over again. </p>
 <p>• A timer keeps track of how much time the user has spent on a puzzle. </p>
